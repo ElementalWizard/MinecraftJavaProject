@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "taiga_cold_hills": "2018-10-30 18:33:54 -0400",
+      "taiga_cold": "2018-10-30 18:33:40 -0400"
+    },
+    "done": false
+  }
+}
